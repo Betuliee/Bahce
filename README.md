@@ -6,6 +6,8 @@ HTML
 
 CSS
 
+JavaScript
+
 <h2> Screen Gif </h2>
 
 ![](site.gif)
