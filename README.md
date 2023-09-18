@@ -2,7 +2,7 @@
 
 <h1> Used Technologies </h1>
 
-HTML
+HTML5
 
 CSS
 
